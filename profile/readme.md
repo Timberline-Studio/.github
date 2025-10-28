@@ -11,7 +11,7 @@ The purpose of creating this Github org is to keep our modular code maintainable
 * [Unreal AngelScript](https://github.com/Timberline-Studio/Timberline-UE-AS) (Timberline Fork)
 
 ### 📐 Projects
-**These projects are not meant to be tied to any in-development IP**. They for discovery and ideation only. Official Projects will exist solely on Timberline Studio's perforce server.
+**These projects are not meant to be tied to any in-development IP**. They are for discovery and ideation only. Official Projects will exist solely on Timberline Studio's perforce server.
 
 * AS Sandbox
   * Sandbox project for tinkering with AngelScript in Unreal Engine
